@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mapa-padrones/static/css/main.5f361e03.chunk.css",
+    "main.js": "/mapa-padrones/static/js/main.50aecbee.chunk.js",
+    "main.js.map": "/mapa-padrones/static/js/main.50aecbee.chunk.js.map",
+    "runtime-main.js": "/mapa-padrones/static/js/runtime-main.c934553b.js",
+    "runtime-main.js.map": "/mapa-padrones/static/js/runtime-main.c934553b.js.map",
+    "static/js/2.84a63c81.chunk.js": "/mapa-padrones/static/js/2.84a63c81.chunk.js",
+    "static/js/2.84a63c81.chunk.js.map": "/mapa-padrones/static/js/2.84a63c81.chunk.js.map",
+    "index.html": "/mapa-padrones/index.html",
+    "precache-manifest.b8fbedf95cf22d928420dd65633908f2.js": "/mapa-padrones/precache-manifest.b8fbedf95cf22d928420dd65633908f2.js",
+    "service-worker.js": "/mapa-padrones/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/mapa-padrones/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.84a63c81.chunk.js.LICENSE.txt": "/mapa-padrones/static/js/2.84a63c81.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mapa-padrones/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c934553b.js",
+    "static/js/2.84a63c81.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.50aecbee.chunk.js"
+  ]
+}
